@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketplaceInventoryImportData>
+    <Item>
+        <totalPrice>500.00</totalPrice>
+        <priceAdditionalInfo/>
+        <minShippingType>STD</minShippingType>
+        <discountPrice/>
+        <description/>
+        <shopName>Hipster Kitty&apos;s Hot Deals</shopName>
+        <priceRanges>1|500.00</priceRanges>
+        <originPrice>500.00</originPrice>
+        <professional>true</professional>
+        <logisticClass>INIT</logisticClass>
+        <productSku>wd-lepsuit</productSku>
+        <minShippingZone>ML</minShippingZone>
+        <premium>false</premium>
+        <price>500.00</price>
+        <shopId>2009</shopId>
+        <minShippingPrice>0.00</minShippingPrice>
+        <measurementUnits/><availableEndDate/>
+        <discountEndDate/>
+        <allowQuoteRequests>false</allowQuoteRequests>
+        <quantity>7</quantity><availableStartDate/>
+        <minShippingPriceAdditional>0.00</minShippingPriceAdditional>
+        <active>true</active>
+        <leadtimeToShip/>
+        <deleted>false</deleted>
+        <fulfillmentCenterCode>DEFAULT</fulfillmentCenterCode>
+        <channels>INIT</channels>
+        <offerId>2018</offerId>
+        <stateCode>11</stateCode>
+        <favoriteRank/>
+        <currencyIsoCode>USD</currencyIsoCode>
+        <discountStartDate/>
+    </Item>
+</MarketplaceInventoryImportData>

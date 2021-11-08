@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketplaceInventoryImportData>
+    <Item>
+        <price>400.00</price>
+        <offerId>2008</offerId>
+    </Item>
+    <Item>
+        <price>500.00</price>
+        <offerId>20091</offerId>
+    </Item>
+</MarketplaceInventoryImportData>

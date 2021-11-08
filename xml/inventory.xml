@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MarketplaceInventoryImportData>
+    <Items>
+        <Item AdjustmentType="ABSOLUTE" ItemID="35713781" OrganizationCode="SAKS" Quantity="750" ShipNode="8624" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ABSOLUTE" ItemID="49229284" OrganizationCode="SAKS" Quantity="10" ShipNode="8669" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ABSOLUTE" ItemID="49229284" OrganizationCode="SAKS" Quantity="0" ShipNode="8674" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ABSOLUTE" ItemID="49229284" OrganizationCode="SAKS" Quantity="50" ShipNode="8689" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ABSOLUTE" ItemID="49229284" OrganizationCode="SAKS" Quantity="0" ShipNode="8691" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+    </Items>
+    <!-- Inventory Adjustment -->
+    <Items>
+        <Item AdjustmentType="ADJUSTMENT" ItemID="35713781" OrganizationCode="SAKS" Quantity="750" ShipNode="8624" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ADJUSTMENT" ItemID="49229284" OrganizationCode="SAKS" Quantity="10" ShipNode="8669" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ADJUSTMENT" ItemID="49229284" OrganizationCode="SAKS" Quantity="0" ShipNode="8674" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ADJUSTMENT" ItemID="49229284" OrganizationCode="SAKS" Quantity="50" ShipNode="8689" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+        <Item AdjustmentType="ADJUSTMENT" ItemID="49229284" OrganizationCode="SAKS" Quantity="0" ShipNode="8691" SupplyType="ONHAND" UnitOfMeasure = "EACH"/>
+    </Items>
+</MarketplaceInventoryImportData>
+
+
+
+
+

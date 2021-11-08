@@ -1,0 +1,18 @@
+{
+  "eventSource": "aws:kafka",
+  "eventSourceArn": "arn:aws:kafka:us-east-1:195056086334:cluster/marketplace-cluster-dev-tmp/cb110902-bd64-41ee-a584-2ab075ffaae4-17",
+  "records": {
+    "mytopic-0": [
+      {
+        "topic": "mp.inventory.v1",
+        "partition": "0",
+        "offset": 85,
+        "timestamp": 1634317899596,
+        "timestampType": "CREATE_TIME",
+        "value": "AwAvjNRZQk1LgJkInYwtz2JICDIwMjEwbWlsa2luZy1jb3ctc2t1LWJ5LWFwaS0yCDAuMDAIMC4wMARNTAZTVEQKNDcuMDAKNDcuMDAAAAIxBDExCDIwMDQSQUNNRSBTSE9QCHRydWUKZmFsc2UISU5JVAh0cnVlAAhJTklUCmZhbHNlCjQ3LjAwAAAAAAAGVVNEAApmYWxzZQ4xfDQ3LjAwDkRFRkFVTFQA",
+        "headers": []
+      }
+    ]
+  }
+}
+
